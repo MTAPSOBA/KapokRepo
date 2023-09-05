@@ -1,3 +1,5 @@
 rice
 bean 
 alloco
+ bamboo
+gombo
