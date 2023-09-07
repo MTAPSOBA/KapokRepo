@@ -3,3 +3,4 @@ bean
 alloco
  bamboo
 gombo
+ salade
